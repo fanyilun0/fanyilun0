@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @fanyilun0
-- 👀 I’m interested in web3
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-  - [twitter](https://twitter.com/fanyilun0)
+![card](https://github.com/fanyilun0/github-profiles/blob/main/fanyilun0-github-cards.png)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
@@ -13,3 +8,8 @@
   <img alt="github contribution grid snake animation" 
        src="https://raw.githubusercontent.com/fanyilun0/fanyilun0/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+### 📫 Connect with me:
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/fanyilun0)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/fanyilun0)
