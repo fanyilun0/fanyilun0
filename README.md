@@ -1,3 +1,8 @@
+Websites:
+- https://foresightnews-renderer.vercel.app/
+- https://binance-alpha-ten.vercel.app/
+- https://kaito-data-renderer.vercel.app/
+
 ![card](https://github.com/fanyilun0/github-profiles/blob/main/fanyilun0-github-cards.png)
 
 <picture>
